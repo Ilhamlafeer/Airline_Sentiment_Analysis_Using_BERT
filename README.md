@@ -143,10 +143,15 @@ Users can enter an airline-related tweet and receive the model's prediction.
 ### Application Features
 
  ✈️ Airline sentiment classification
+ 
  📝 Free-text tweet input
+ 
  🤖 Fine-tuned BERT inference
+ 
  📊 Prediction confidence
+ 
  📈 Sentiment probability distribution
+ 
  😠 Negative / 😐 Neutral / 😊 Positive classification
 
 ### Application Workflow
