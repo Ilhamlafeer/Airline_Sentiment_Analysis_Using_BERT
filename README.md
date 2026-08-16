@@ -303,7 +303,7 @@ http://localhost:8501
 
 ## 🧪 Example Predictions
 
-### Example 1 — Positive
+### Example 1 - Positive
 
 ```text
 The flight attendant was amazing and the service was excellent!
@@ -315,7 +315,7 @@ Expected sentiment:
 😊 Positive
 ```
 
-### Example 2 — Negative
+### Example 2 - Negative
 
 ```text
 My flight was delayed for hours and nobody helped me.
@@ -327,7 +327,7 @@ Expected sentiment:
 😠 Negative
 ```
 
-### Example 3 — Neutral
+### Example 3 - Neutral
 
 ```text
 My flight from New York to Chicago is scheduled for 8 PM.
