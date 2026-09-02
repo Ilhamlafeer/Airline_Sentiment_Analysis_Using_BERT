@@ -115,10 +115,11 @@ The fine-tuned BERT model achieved approximately:
 
 | Metric    |      Score |
 | --------- | ---------: |
-| Accuracy  | 84.95% |
-| Precision | 84.90% |
-| Recall    | 84.95% |
-| F1 Score  | 84.92% |
+| Accuracy  | 85.51% |
+| Precision | 85.33% |
+| Recall    | 85.51% |
+| F1 Score  | 85.40% |
+
 
 ### Confusion Matrix
 
@@ -126,9 +127,9 @@ The fine-tuned BERT model achieved approximately:
                  Predicted
               Neg   Neu   Pos
 
-Actual Neg   1657   114    47
-       Neu    127   426    60
-       Pos     36    51   373
+Actual Neg   1677   97    44
+       Neu    133   425    55
+       Pos     35    55   370
 ```
 
 The model performs particularly well on negative sentiment, while neutral sentiment is comparatively more challenging to distinguish from the other classes.
